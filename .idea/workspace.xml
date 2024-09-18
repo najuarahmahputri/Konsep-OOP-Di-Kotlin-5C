@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ab4a3a70-8453-40f3-92b1-d72f113263ec" name="Changes" comment="PersonD.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/depandi/test_kelas/PersonE.kt" afterDir="false" />
+    <list default="true" id="ab4a3a70-8453-40f3-92b1-d72f113263ec" name="Changes" comment="PersonE.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/depandi/test_kelas/PersonF.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +42,7 @@
       <recent name="C:\Users\Public\KonsepOOPDiKotlin5C\src\id.ac.polbeng.depandi.test_kelas" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.PersonEKt">
+  <component name="RunManager" selected="Kotlin.PersonFKt">
     <configuration name="GreeterTestKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.depandi.test_kelas.GreeterTestKt" />
       <module name="KonsepOOPDiKotlin5C" />
@@ -70,8 +71,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PersonFKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.depandi.test_kelas.PersonFKt" />
+      <module name="KonsepOOPDiKotlin5C" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.PersonFKt" />
         <item itemvalue="Kotlin.PersonEKt" />
         <item itemvalue="Kotlin.PersonAKt" />
         <item itemvalue="Kotlin.InitOrderKt" />
@@ -165,7 +174,14 @@
       <option name="project" value="LOCAL" />
       <updated>1726680422737</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="PersonE.kt">
+      <created>1726681449584</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1726681449584</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -188,6 +204,7 @@
     <MESSAGE value="PersonB.kt" />
     <MESSAGE value="PersonC.kt" />
     <MESSAGE value="PersonD.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="PersonD.kt" />
+    <MESSAGE value="PersonE.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="PersonE.kt" />
   </component>
 </project>
