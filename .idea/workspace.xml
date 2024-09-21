@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ab4a3a70-8453-40f3-92b1-d72f113263ec" name="Changes" comment="InterfacesC.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/depandi/test_kelas/InterfacesD.kt" afterDir="false" />
+    <list default="true" id="ab4a3a70-8453-40f3-92b1-d72f113263ec" name="Changes" comment="InterfacesD.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/depandi/test_kelas/NestedInnerClass.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,14 +42,7 @@
       <recent name="C:\Users\Public\KonsepOOPDiKotlin5C\src\id.ac.polbeng.depandi.test_kelas" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.InterfacesDKt">
-    <configuration name="AccessModifierAKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.depandi.test_kelas.AccessModifierAKt" />
-      <module name="KonsepOOPDiKotlin5C" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.NestedInnerClassKt">
     <configuration name="AccessModifierrAKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.depandi.test_kelas.AccessModifierrAKt" />
       <module name="KonsepOOPDiKotlin5C" />
@@ -78,13 +71,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="NestedInnerClassKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.depandi.test_kelas.NestedInnerClassKt" />
+      <module name="KonsepOOPDiKotlin5C" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.NestedInnerClassKt" />
         <item itemvalue="Kotlin.InterfacesDKt" />
         <item itemvalue="Kotlin.InterfacesCKt" />
         <item itemvalue="Kotlin.InterfacesAKt" />
         <item itemvalue="Kotlin.AccessModifierrAKt" />
-        <item itemvalue="Kotlin.AccessModifierAKt" />
       </list>
     </recent_temporary>
   </component>
@@ -314,7 +314,14 @@
       <option name="project" value="LOCAL" />
       <updated>1726943263459</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="InterfacesD.kt">
+      <created>1726943610436</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1726943610436</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -329,7 +336,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Greeterr.kt" />
     <MESSAGE value="InitOrder.kt" />
     <MESSAGE value="PersonA.kt" />
     <MESSAGE value="PersonB.kt" />
@@ -354,6 +360,7 @@
     <MESSAGE value="InterfacesA.kt" />
     <MESSAGE value="InterfacesB.kt" />
     <MESSAGE value="InterfacesC.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="InterfacesC.kt" />
+    <MESSAGE value="InterfacesD.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="InterfacesD.kt" />
   </component>
 </project>
