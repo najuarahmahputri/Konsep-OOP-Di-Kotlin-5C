@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ab4a3a70-8453-40f3-92b1-d72f113263ec" name="Changes" comment="InterfacesB.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/depandi/test_kelas/InterfacesC.kt" afterDir="false" />
+    <list default="true" id="ab4a3a70-8453-40f3-92b1-d72f113263ec" name="Changes" comment="InterfacesC.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/depandi/test_kelas/InterfacesD.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +42,7 @@
       <recent name="C:\Users\Public\KonsepOOPDiKotlin5C\src\id.ac.polbeng.depandi.test_kelas" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.InterfacesCKt">
+  <component name="RunManager" selected="Kotlin.InterfacesDKt">
     <configuration name="AccessModifierAKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.depandi.test_kelas.AccessModifierAKt" />
       <module name="KonsepOOPDiKotlin5C" />
@@ -71,8 +71,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VisibilityAKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.depandi.test_kelas.VisibilityAKt" />
+    <configuration name="InterfacesDKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.depandi.test_kelas.InterfacesDKt" />
       <module name="KonsepOOPDiKotlin5C" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -80,11 +80,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.InterfacesDKt" />
         <item itemvalue="Kotlin.InterfacesCKt" />
         <item itemvalue="Kotlin.InterfacesAKt" />
         <item itemvalue="Kotlin.AccessModifierrAKt" />
         <item itemvalue="Kotlin.AccessModifierAKt" />
-        <item itemvalue="Kotlin.VisibilityAKt" />
       </list>
     </recent_temporary>
   </component>
@@ -307,7 +307,14 @@
       <option name="project" value="LOCAL" />
       <updated>1726942972977</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="InterfacesC.kt">
+      <created>1726943263459</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1726943263459</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -322,7 +329,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Greeter.kt" />
     <MESSAGE value="Greeterr.kt" />
     <MESSAGE value="InitOrder.kt" />
     <MESSAGE value="PersonA.kt" />
@@ -347,6 +353,7 @@
     <MESSAGE value="AccessModifierrA.kt" />
     <MESSAGE value="InterfacesA.kt" />
     <MESSAGE value="InterfacesB.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="InterfacesB.kt" />
+    <MESSAGE value="InterfacesC.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="InterfacesC.kt" />
   </component>
 </project>
