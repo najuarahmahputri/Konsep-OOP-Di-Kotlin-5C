@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ab4a3a70-8453-40f3-92b1-d72f113263ec" name="Changes" comment="DataClassB.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/depandi/test_kelas/DataClassC.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/depandi/test_kelas/DataClassD.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/depandi/test_kelas/DataClassE.kt" afterDir="false" />
+    <list default="true" id="ab4a3a70-8453-40f3-92b1-d72f113263ec" name="Changes" comment="DataClassE.kt">
       <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/depandi/test_kelas/DataClassF.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -359,7 +357,28 @@
       <option name="project" value="LOCAL" />
       <updated>1726945834154</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="DataClassC.kt">
+      <created>1726945965989</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1726945965990</updated>
+    </task>
+    <task id="LOCAL-00039" summary="DataClassD.kt">
+      <created>1726946074012</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1726946074012</updated>
+    </task>
+    <task id="LOCAL-00040" summary="DataClassE.kt">
+      <created>1726946339339</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1726946339339</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -374,9 +393,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="PersonE.kt" />
-    <MESSAGE value="PersonF.kt" />
-    <MESSAGE value="EnkapsulasiA.kt" />
     <MESSAGE value="EnkapsulasiB.kt" />
     <MESSAGE value="InheritanceA.kt" />
     <MESSAGE value="InheritanceB.kt" />
@@ -399,6 +415,9 @@
     <MESSAGE value="NestedInnerClassB.kt" />
     <MESSAGE value="DataClassA.kt" />
     <MESSAGE value="DataClassB.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="DataClassB.kt" />
+    <MESSAGE value="DataClassC.kt" />
+    <MESSAGE value="DataClassD.kt" />
+    <MESSAGE value="DataClassE.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="DataClassE.kt" />
   </component>
 </project>
