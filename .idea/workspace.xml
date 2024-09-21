@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ab4a3a70-8453-40f3-92b1-d72f113263ec" name="Changes" comment="InheritanceE.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/depandi/test_kelas/InheritanceF.kt" afterDir="false" />
+    <list default="true" id="ab4a3a70-8453-40f3-92b1-d72f113263ec" name="Changes" comment="InheritanceG.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/depandi/test_kelas/InheritanceH.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -13,6 +13,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Class" />
         <option value="Kotlin File" />
       </list>
     </option>
@@ -42,14 +43,7 @@
       <recent name="C:\Users\Public\KonsepOOPDiKotlin5C\src\id.ac.polbeng.depandi.test_kelas" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.InheritanceGKt">
-    <configuration name="InheritanceCKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.depandi.test_kelas.InheritanceCKt" />
-      <module name="KonsepOOPDiKotlin5C" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.InheritanceHKt">
     <configuration name="InheritanceDKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.depandi.test_kelas.InheritanceDKt" />
       <module name="KonsepOOPDiKotlin5C" />
@@ -78,13 +72,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="InheritanceHKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.depandi.test_kelas.InheritanceHKt" />
+      <module name="KonsepOOPDiKotlin5C" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.InheritanceHKt" />
         <item itemvalue="Kotlin.InheritanceGKt" />
         <item itemvalue="Kotlin.InheritanceFKt" />
         <item itemvalue="Kotlin.InheritanceEKt" />
         <item itemvalue="Kotlin.InheritanceDKt" />
-        <item itemvalue="Kotlin.InheritanceCKt" />
       </list>
     </recent_temporary>
   </component>
@@ -237,7 +238,21 @@
       <option name="project" value="LOCAL" />
       <updated>1726937265513</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="InheritanceG.kt">
+      <created>1726937931539</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1726937931539</updated>
+    </task>
+    <task id="LOCAL-00022" summary="InheritanceG.kt">
+      <created>1726938390540</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1726938390540</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -269,6 +284,7 @@
     <MESSAGE value="InheritanceC.kt" />
     <MESSAGE value="InheritanceD.kt" />
     <MESSAGE value="InheritanceE.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="InheritanceE.kt" />
+    <MESSAGE value="InheritanceG.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="InheritanceG.kt" />
   </component>
 </project>
