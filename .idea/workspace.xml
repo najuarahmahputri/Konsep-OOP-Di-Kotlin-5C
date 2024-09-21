@@ -43,14 +43,7 @@
       <recent name="C:\Users\Public\KonsepOOPDiKotlin5C\src\id.ac.polbeng.depandi.test_kelas" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.PolymorphismAKt">
-    <configuration name="InheritanceEKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.depandi.test_kelas.InheritanceEKt" />
-      <module name="KonsepOOPDiKotlin5C" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.PolymorphismBKt">
     <configuration name="InheritanceFKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.depandi.test_kelas.InheritanceFKt" />
       <module name="KonsepOOPDiKotlin5C" />
@@ -79,13 +72,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PolymorphismBKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.depandi.test_kelas.PolymorphismBKt" />
+      <module name="KonsepOOPDiKotlin5C" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.PolymorphismBKt" />
         <item itemvalue="Kotlin.PolymorphismAKt" />
         <item itemvalue="Kotlin.InheritanceHKt" />
         <item itemvalue="Kotlin.InheritanceGKt" />
         <item itemvalue="Kotlin.InheritanceFKt" />
-        <item itemvalue="Kotlin.InheritanceEKt" />
       </list>
     </recent_temporary>
   </component>
