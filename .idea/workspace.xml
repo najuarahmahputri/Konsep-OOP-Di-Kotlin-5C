@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ab4a3a70-8453-40f3-92b1-d72f113263ec" name="Changes" comment="AccessModifierrA.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/depandi/test_kelas/InterfacesA.kt" afterDir="false" />
+    <list default="true" id="ab4a3a70-8453-40f3-92b1-d72f113263ec" name="Changes" comment="InterfacesA.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/depandi/test_kelas/InterfacesB.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -293,7 +293,14 @@
       <option name="project" value="LOCAL" />
       <updated>1726942225728</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="InterfacesA.kt">
+      <created>1726942488318</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1726942488318</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -332,6 +339,7 @@
     <MESSAGE value="VisibilityA.kt" />
     <MESSAGE value="AccessModifierA.kt" />
     <MESSAGE value="AccessModifierrA.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="AccessModifierrA.kt" />
+    <MESSAGE value="InterfacesA.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="InterfacesA.kt" />
   </component>
 </project>
