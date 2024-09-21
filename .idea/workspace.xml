@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ab4a3a70-8453-40f3-92b1-d72f113263ec" name="Changes" comment="PolymorphismB.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/depandi/test_kelas/VisibilityA.kt" afterDir="false" />
-    </list>
+    <list default="true" id="ab4a3a70-8453-40f3-92b1-d72f113263ec" name="Changes" comment="VisibilityA.kt" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,9 +40,9 @@
       <recent name="C:\Users\Public\KonsepOOPDiKotlin5C\src\id.ac.polbeng.depandi.test_kelas" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.VisibilityAKt">
-    <configuration name="InheritanceGKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.depandi.test_kelas.InheritanceGKt" />
+  <component name="RunManager" selected="Kotlin.AccessModifierAKt">
+    <configuration name="AccessModifierAKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.depandi.test_kelas.AccessModifierAKt" />
       <module name="KonsepOOPDiKotlin5C" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -80,11 +78,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.AccessModifierAKt" />
         <item itemvalue="Kotlin.VisibilityAKt" />
         <item itemvalue="Kotlin.PolymorphismBKt" />
         <item itemvalue="Kotlin.PolymorphismAKt" />
         <item itemvalue="Kotlin.InheritanceHKt" />
-        <item itemvalue="Kotlin.InheritanceGKt" />
       </list>
     </recent_temporary>
   </component>
@@ -272,7 +270,14 @@
       <option name="project" value="LOCAL" />
       <updated>1726940701148</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="VisibilityA.kt">
+      <created>1726941341007</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1726941341007</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -308,6 +313,7 @@
     <MESSAGE value="InheritanceH.kt" />
     <MESSAGE value="PolymorphismA.kt" />
     <MESSAGE value="PolymorphismB.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="PolymorphismB.kt" />
+    <MESSAGE value="VisibilityA.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="VisibilityA.kt" />
   </component>
 </project>
